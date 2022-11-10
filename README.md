@@ -81,4 +81,4 @@ git clone [https://github.com/Jenn226/CIFAR10-CNN.git](https://github.com/Jenn22
 #### 第2步：安装环境
 tensorflow2.9.1（采用2.1.x以上版本即可）<br />matplotlib3.6.2（用于训练数据可视化，选择性安装即可）<br />python3.10.6（采用3.7.x以上版本即可）
 <a name="RF8Yo"></a>
-#### 第3步：运行main1.ipynb即可
+#### 第3步：运行main1.ipynb即可（main0为基础模型代码，main1为优化后模型代码）

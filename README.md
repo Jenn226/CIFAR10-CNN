@@ -1,2 +1,0 @@
-# CIFAR10-CNN
-基于CNN的CIFAR10图像分类任务
